@@ -1,0 +1,4 @@
+interface:
+  display_name: "法汉口译训练助手"
+  short_description: "复用法汉口译训练流程，制作译前准备、分段参考与报告，并指导本机工具迭代"
+  default_prompt: "请使用 $fr-interpreting-coach，基于我的法语素材准备分段口译练习，提供口译参考译文和重点难点。"
